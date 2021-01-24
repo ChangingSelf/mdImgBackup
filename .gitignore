@@ -1,0 +1,6 @@
+# 图片
+*.png
+*.jpg
+*.bmp
+*.jpeg
+.vscode/
